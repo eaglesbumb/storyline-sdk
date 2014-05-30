@@ -39,7 +39,7 @@ package customframe.components.seekbar
 		private var m_bSeekAnimationsPlaying:Boolean = false;
 		private var m_bChildrenInited:Boolean = false;
 		private var m_bPlayPauseButtonEnabled:Boolean = false;
-		private var m_bReplayButtonEnabled:Boolean = false;
+		private var m_bReplayButtonEnabled:Boolean = true;
 		private var m_nWidth:Number = 0;
 		private var m_nProgressBarWidth:Number = 0;
 
